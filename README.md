@@ -1,1 +1,1 @@
-Journal .. (using Expose script from https://github.com/Jack000/Expose)
+Journal\n(Using scripts from https://github.com/Jack000/Expose.git)
